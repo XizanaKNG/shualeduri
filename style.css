@@ -27,6 +27,7 @@ body {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
+    box-shadow: 0px 30px 60px 0px #3D6CEC26;
 }
 
 .results-container {
